@@ -18,7 +18,7 @@
             id: "CustomerPO",
             dataType: tableau.dataTypeEnum.string
         }, {
-            id: "Item Code",
+            id: "ItemCode",
             alias: "ItemID",
             dataType: tableau.dataTypeEnum.string
         }, {
